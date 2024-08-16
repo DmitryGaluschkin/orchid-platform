@@ -1,6 +1,5 @@
 {
     "name": "dmitrygaluschkin/platform",
-    "version": "14.28.3",
     "type": "library",
     "description": "Platform for back-office applications, admin panel or CMS your Laravel app.",
     "keywords": [
