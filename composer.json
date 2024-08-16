@@ -1,5 +1,5 @@
 {
-    "name": "orchid/platform",
+    "name": "DmitryGaluschkin/platform",
     "description": "Platform for back-office applications, admin panel or CMS your Laravel app.",
     "keywords": [
         "framework",
@@ -40,7 +40,7 @@
         "orchid/blade-icons": "^2.0",
         "orchid/icons": "^2.0",
         "tabuna/breadcrumbs": "^3.0",
-        "laravel/framework": "^9.21",
+         "laravel/framework": "^10.0||^11.0",
         "laravel/scout": "^9.0",
         "myclabs/php-enum": "^1.7",
         "watson/active": "^6.0"
@@ -56,9 +56,6 @@
         "phpunit/phpunit": "^9.0",
         "sti3bas/laravel-scout-array-driver": "^3.2",
         "vimeo/psalm": "^4.3"
-    },
-    "conflict": {
-        "laravel/framework": "<9.32.0"
     },
     "autoload": {
         "psr-4": {
