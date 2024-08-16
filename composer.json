@@ -90,7 +90,7 @@
                 "Alert": "Orchid\\Support\\Facades\\Alert",
                 "Dashboard": "Orchid\\Support\\Facades\\Dashboard"
             }
-        },
+        }
     },
     "suggest": {
         "orchid/crud": "Automated CRUD based on your files resources.",
