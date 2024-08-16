@@ -1,5 +1,7 @@
 {
-    "name": "DmitryGaluschkin/platform",
+    "name": "dmitrygaluschkin/platform",
+    "version": "13.6.4",
+    "type": "library",
     "description": "Platform for back-office applications, admin panel or CMS your Laravel app.",
     "keywords": [
         "framework",
@@ -89,7 +91,10 @@
                 "Alert": "Orchid\\Support\\Facades\\Alert",
                 "Dashboard": "Orchid\\Support\\Facades\\Dashboard"
             }
-        }
+        },
+        "branch-alias": {
+            "dev-main": "13.x-dev"
+        }        
     },
     "suggest": {
         "orchid/crud": "Automated CRUD based on your files resources.",
